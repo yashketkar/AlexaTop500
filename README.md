@@ -5,4 +5,5 @@ Usage:
 python alexa.py (Optional Integer Parameter N)
 
 The value of N will be read from the command line if no command line arguments are specified.
+
 This will print the top N websites from http://www.alexa.com/topsites to stdout.
