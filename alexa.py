@@ -2,7 +2,7 @@ import urllib
 import re
 import sys
 intError = "Please enter an integer between 1 to 500 only."
-ioError = "An IOError occured, Please make sure you are connected to the internet and python has access to it."
+ioError = "An IOError occured, please make sure you are connected to the internet and python has access to it."
 def errorAndExit(error):
     print error
     sys.exit()
