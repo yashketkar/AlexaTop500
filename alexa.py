@@ -7,7 +7,7 @@ def errorAndExit(error):
     print error
     sys.exit()
 try:
-    if len(sys.argv) == 2:
+    if len(sys.argv) >= 2:
         n = int(sys.argv[1])
     else:
         print "Please enter the value of N (1-500):"
