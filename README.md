@@ -1,2 +1,2 @@
-# alexatop500
-This script prints the top N links from Alexa top 500 given the value of N.
+# AlexaTop500
+This script prints the top N links from Alexa Top 500 websites given the value of N.
